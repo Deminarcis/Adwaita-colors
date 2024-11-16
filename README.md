@@ -1,4 +1,7 @@
 # Adwaita-colors
+This repo changes the window controls with the ones from Papirus because i like them more than the default
+also to make an install script becuase i am lazy
+
 
 ![showcase](./v2.3.1.jpg)
 
@@ -35,13 +38,13 @@ cp -r ./Adwaita-colors/* /var/usrlocal/share/icons/
 
 #### Arch Linux (AUR) packages
 
-Release-based [adwaita-colors-icon-theme](https://aur.archlinux.org/packages/adwaita-colors-icon-theme):  
+Release-based [adwaita-colors-icon-theme](https://aur.archlinux.org/packages/adwaita-colors-icon-theme):
 ```sh
 paru adwaita-colors-icon-theme
 ```
 <sup>*Replace `paru` with `yay -S` or your favourite AUR helper install command.</sup>
 
-Git-based [adwaita-colors-icon-theme-git](https://aur.archlinux.org/packages/adwaita-colors-icon-theme-git) for keeping up with all git changes between releases:  
+Git-based [adwaita-colors-icon-theme-git](https://aur.archlinux.org/packages/adwaita-colors-icon-theme-git) for keeping up with all git changes between releases:
 ```sh
 paru adwaita-colors-icon-theme-git
 ```
